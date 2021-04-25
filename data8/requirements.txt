@@ -1,0 +1,11 @@
+jupyter-book
+numpy
+datascience
+numpy
+pandas
+scipy
+folium>=0.9.1
+matplotlib
+datascience
+ipywidgets>=7.0.0
+nbinteract==0.0.12
