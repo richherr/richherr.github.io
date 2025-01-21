@@ -8,10 +8,10 @@ Thinking: The Foundations of Data Science.
 1. Get your copy of this repository:
 
    ```
-   git clone https://github.com/data-8/textbook
+   git clone https://github.com/data8/textbook
    ```
 2. Change the file you wish and commit it to the repository.
-3. Push your change back to the `data-8/textbook` repository (ideally via a pull request).
+3. Push your change back to the `data8/textbook` repository (ideally via a pull request).
 4. That's it a GitHub Action will build the book and deploy it to [inferentialthinking.com](https://inferentialthinking.com)
 
 
@@ -22,7 +22,7 @@ Thinking: The Foundations of Data Science.
   https://github.com/inferentialthinking/inferentialthinking.github.io
 
   **You should not ever directly edit the inferentialthinking.github.io repository**
-* When you make a change to this repository and push it to the `data-8/textbook` `main`
+* When you make a change to this repository and push it to the `data8/textbook` `main`
   branch, the book's HTML will automatically be pushed to https://github.com/inferentialthinking/inferentialthinking.github.io.
 * This process is handled by [this GitHub Action](.github/workflows/deploy.yml)
 
